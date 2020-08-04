@@ -1,0 +1,485 @@
+@media only screen and (min-width:320px) and (max-width:479px) {
+    .sec1 {
+        height: 475px;
+    }
+
+    .logo {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 16px auto;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .logoimg {
+        height: 40px;
+    }
+
+    .navigation {
+        display: block;
+        float: none;
+        width: 310px;
+        padding: 0px 18px;
+        margin: 0px auto;
+    }
+
+    .navigation li a {
+        padding: 5px;
+        font-size: 14px;
+    }
+
+    .navigation li {
+        padding: 6px 0px;
+    }
+
+    .navbar {
+        height: auto;
+    }
+
+    .textd {
+        width: 320px;
+        display: block;
+        margin: 0px auto;
+    }
+
+    .textd h1 {
+        font-size: 36px;
+        padding-top: 80px;
+
+    }
+
+    /*    Sec1 media Query Complete*/
+    /*    Sec2 Media Query Starts */
+
+    .card {
+        display: block;
+        width: 315px;
+        float: none;
+        padding: 5px 0px;
+        margin: 0px auto;
+    }
+
+    .icon {
+        padding: 20px 0px;
+    }
+
+    .icon i {
+        font-size: 45px;
+    }
+
+    .sec2 {
+        padding: 20px 25px 0px 40px;
+    }
+
+    /*sec2 Media Query Complete*/
+    /*   sec3 query */
+    .sec3 {
+        padding: 15px 40px 0px 40px;
+    }
+
+    .feature,
+    .laptop {
+        width: 100%;
+        float: none;
+        padding: 0px 0px 0px 0px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    .feature h2 {
+        font-size: 24px;
+        padding-top: 1px;
+        padding-bottom: 5px;
+    }
+
+    /*    Section 4 Started*/
+    .card2 {
+        width: 100%;
+        float: none;
+        margin: 0px;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .cardholder {
+        width: 260px;
+    }
+
+    .sec4 {
+        background: linear-gradient(to top, #663300 0%, #ff9966 100%);
+    }
+
+    /*Sec4 Completed*/
+    /*Sec5 Media Query Starts */
+
+    .sec5textdiv {
+        padding: 10px 25px;
+    }
+
+    .card3 {
+        width: 315px;
+        float: none;
+        display: block;
+        margin: 20px auto;
+        padding: 50px 50px;
+        box-sizing: border-box;
+    }
+
+    .container {
+        width: 100%;
+        display: block;
+        margin: 0px auto;
+        overflow: hidden;
+        padding: 1px;
+        box-sizing: border-box;
+    }
+
+    /*sec5 Media Query Complete*/
+    .sec6 h2 {
+        font-size: 36px;
+    }
+
+    .sec6 p {
+        padding: 10px 20px;
+    }
+
+    .sec6 .plogo {
+        height: 65px;
+    }
+
+    .info {
+        width: 100%;
+        float: none;
+        padding: 15px 0px;
+        line-height: 1.5;
+    }
+
+    .sec7 .address {
+        width: 320px;
+    }
+
+}
+
+@media only screen and (min-width:480px) and (max-width:766px) {
+
+
+    /*   sec1 media query*/
+    .sec1 {
+        height: 500px;
+    }
+
+
+    .logo {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 20px auto;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .logoimg {
+        height: 50px;
+    }
+
+    .navigation {
+        display: block;
+        float: none;
+        width: 320px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+
+    .navigation li a {
+        padding: 5px;
+        font-size: 16px;
+    }
+
+    .navbar {
+        height: auto;
+    }
+
+    .textd {
+        width: 350px;
+        display: block;
+        margin: 0px auto;
+    }
+
+    .textd h1 {
+        font-size: 40px;
+        padding-top: 100px;
+        padding-bottom: 10px;
+    }
+
+    /*    Sec1 Media Query For complete */
+
+
+
+    /*    Sec2 Media Query Starts */
+
+    .card {
+        display: block;
+        width: 330px;
+        float: none;
+        padding: 5px 0px;
+        margin: 10px auto;
+    }
+
+    .icon {
+        padding: 20px 0px;
+    }
+
+    .icon i {
+        font-size: 45px;
+    }
+
+    .sec2 {
+        padding: 20px 25px 0px 40px;
+    }
+
+    /*sec2 Media Query Complete*/
+
+
+
+    /*Sec3 Media Query Starts */
+    .sec3 {
+        padding: 15px 50px 0px 50px;
+    }
+
+    .feature,
+    .laptop {
+        width: 100%;
+        float: none;
+        padding: 0px 0px 0px 0px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    .feature h2 {
+        font-size: 24px;
+        padding-top: 1px;
+        padding-bottom: 5px;
+    }
+
+    /*sec3 Media Query Complete*/
+
+
+    /*Sec4 Media Query Starts */
+    .card2 {
+        width: 350px;
+        float: none;
+        margin: 0px;
+        text-align: center;
+        padding: 10px 0px;
+        margin: 10px auto;
+    }
+    
+    .cardholder {
+        width: 405px;
+    }
+
+    .sec4 {
+        background: linear-gradient(to top, #663300 0%, #ff9966 100%);
+    }
+
+    /*sec4 Media Query Complete*/
+
+    /*Sec5 Media Query Starts */
+    .sec5textdiv {
+        padding: 10px 75px;
+    }
+
+    .card3 {
+        width: 350px;
+        float: none;
+        display: block;
+        margin: 20px auto;
+        padding: 50px 50px;
+        box-sizing: border-box;
+    }
+
+    .container {
+        width: 100%;
+        display: block;
+        margin: 0px auto;
+        overflow: hidden;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    /*sec5 Media Query Complete*/
+
+
+    /*   Last border of 2nd Media query*/
+}
+
+@media only screen and (min-width:767px) and (max-width:990px) {
+
+    /*  Query for Section 1 Starts here   */
+   
+    .navigation {
+        width: 50%;
+        float: right;
+        padding: 30px 6px 30px 25px;
+        margin-left: 100px;
+    }
+
+    .logo {
+        width: 30%;
+        padding: 20px 0px 20px 60px;
+    }
+
+    .navigation li a {
+        padding: 5px 5px;
+        font-size: 18px;
+    }
+
+ /*  Query for Section 1 Ends here   */
+    
+    
+    
+    /*  Query for Section 2 Starts here   */
+    .card {
+        width: 50%;
+    }
+
+    /*  Query for Section 2 Ends here   */
+
+
+
+
+    /*  Query for Section 3 Starts here   */
+    .sec3 {
+        padding: 15px 50px 0px 50px;
+    }
+
+    .feature,
+    .laptop {
+        width: 100%;
+        float: none;
+        padding: 0px 0px 0px 0px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    .feature h2 {
+        font-size: 24px;
+        padding-top: 1px;
+        padding-bottom: 5px;
+    }
+
+    /*  Query for Section 3 Ends here   */
+
+    /*  Query for Section 4 Starts here   */
+    .card2 {
+        width: 45%;
+    }
+
+    .cardholder {
+        width: 700px;
+        display: block;
+        margin: 0px auto;
+    }
+
+    /*  Query for Section 4 Ends here   */
+
+    /*  Query for Section 5 Starts here   */
+
+
+    .sec5textdiv {
+        padding: 20px 50px;
+    }
+
+    .container {
+        padding: 30px 0px;
+    }
+
+    .card3 {
+        margin: 10px;
+
+    }
+
+    /*  Query for Section 5 Ends here   */
+
+
+    /*  Query for Section 6,7 and Footer - Not Neccessary   */
+}
+
+@media only screen and (min-width:991px) and (max-width: 1199px) {
+
+    /*    Query for sec1 start here*/
+    .navigation {
+        width: 42%;
+        float: right;
+        padding: 30px 6px 30px 25px;
+        margin-left: 100px;
+    }
+
+    .logo {
+        width: 30%;
+        padding: 20px 0px 20px 60px;
+    }
+
+    .navigation li a {
+        padding: 5px 5px;
+        font-size: 18px;
+    }
+
+    /*    Query for sec2 Ends here*/
+    /*    Sec4 query */
+    .card2 {
+        width: 30%;
+        padding: 0px 20px;
+    }
+
+    .cardholder {
+        width: 900px;
+        display: block;
+        margin: 0px auto;
+    }
+
+    /*    Sec4 query Ends */
+
+
+
+    /*    Sec5 Query Starts*/
+    .sec5textdiv {
+        padding: 20px 50px;
+    }
+
+    .container {
+        padding: 30px 0px 30px 10px;
+    }
+
+    .card3 {
+        margin: 10px;
+        width: 31%;
+
+    }
+
+    /*    Sec5 Query Ends*/
+}
+
+@media only screen and (min-width: 1200px) {
+    .navigation li a {
+        padding: 5px 15px;
+    }
+
+    .navigation {
+        width: 46%;
+        float: right;
+        padding: 32px 16px 30px 44px;
+        margin-left: 400px;
+    }
+
+    .container {
+        width: 100%;
+        display: block;
+        margin: 0px auto;
+        overflow: hidden;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+}
+
+/*Media Query for Project 8*/
